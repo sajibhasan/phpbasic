@@ -21,7 +21,3 @@ echo "<br>";
 
 print ("and a 123");
 print  "and a 123";
-
-echo "<br>";
-
-$b ? print "true" : print "false";
